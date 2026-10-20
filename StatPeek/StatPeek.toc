@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: StatPeek
+## Notes: Minimap button that opens a window with your character's name, level, class and stats.
+## Author: Eboncraft
+## Version: 1.0.0
+## SavedVariables: StatPeekDB
+
+StatPeek.lua
